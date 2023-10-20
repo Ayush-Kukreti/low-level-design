@@ -1,1 +1,2 @@
-command line program  for a simple snake-ladder game between 2 players.
+
+Command line program  for a simple snake-ladder game between any number of players.
